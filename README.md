@@ -1,4 +1,4 @@
-casual_intelli_collect
+Casual_intelli_collect
 ======================
 
-casual_phoneinfo, first project by I and my boss MinhCai
+Casual_intelli_collect, first project by I and my boss MinhCai
